@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on Machine Learning and Deep Learning<br>I'm looking to collaborate on ML , DL and Robotics<br>I'm currently learning DSA<br>
+Currently Working on Machine Learning and Deep Learning<br>I'm looking to collaborate on ML , DL and Robotics<br>I'm currently learning Computer Vision and DSA<br>
 
 
 ## 🌐 Socials:
